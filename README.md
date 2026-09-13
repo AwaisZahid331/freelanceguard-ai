@@ -3,6 +3,8 @@
 Multi-agent AI system that protects freelancers from fake/scam clients. Built for the
 AI Freelancer Fraud Detection Hackathon.
 
+🎥 **Demo video:** https://www.loom.com/share/f5861b39f487434db1d53432c928b530
+
 ## How it works
 
 1. **Email Agent** — verifies the client's email via AbstractAPI's Email Reputation
